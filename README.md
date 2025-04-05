@@ -1,6 +1,6 @@
 # 📰 Fake News Detector
 
-A simple machine learning based web app that classify news articles as **real** or **fake** based on their content. Built with Python, Flask, and scikit-learn.
+A simple machine learning based web app that classifies news articles as **real** or **fake** based on their content. Built with Python, Flask, and scikit-learn.
 
 ## Features
 
